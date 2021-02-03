@@ -1,6 +1,5 @@
 # Hello-World
 
-self = Lesley Smith 
+self = Lesley-Nicole 
 
-def projects(x,y);
-    print{"cozmobot", "blockchain"}
+
